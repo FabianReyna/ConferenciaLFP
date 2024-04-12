@@ -1,0 +1,4 @@
+Estado 0 -> + - * /
+Estado 1 -> numeros
+Estado 2 -> Palabra reservada IMPRIMIR
+Estado 3 -> Comentarios de una linea
